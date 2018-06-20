@@ -1,0 +1,16 @@
+https://courses.edx.org/courses/course-v1:EPFLx+SimNeuroX+3T2017/course/
+http://stratum.ac.ru/education/textbooks/modelir/contents.html
+https://stepik.org/course/83?after_pass_reset=true
+https://www.codecademy.com/tracks/python
+https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie
+https://habr.com/company/mlclass/blog/252743/
+https://tproger.ru/digest/machine-learning-materials/
+https://habr.com/users/akrot/posts/
+https://yandexdataschool.ru/edu-process/online-courses
+https://neuralsystemsandcircuits.biomedcentral.com/articles/10.1186/2042-1001-1-12
+https://channel9.msdn.com/Shows/AI-Show/Neuroscience-with-Azure-Machine-Learning
+https://pdfs.semanticscholar.org/presentation/75d9/ad1fb5805bd68170f491c0d8fe5909c915c1.pdf
+http://www.jneurosci.org/content/38/7/1601/tab-figures-data
+https://www.youtube.com/watch?v=24ym3pkTVI0
+https://www.humanbrainproject.eu/en/follow-hbp/events/from-neuroscience-to-machine-learning/
+https://massivesci.com/articles/neuroscience-machine-learning-metaphors/
